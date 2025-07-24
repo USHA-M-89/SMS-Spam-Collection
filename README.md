@@ -20,7 +20,7 @@
   - The model can now predict whether a new SMS is spam or not.
 
 # About Me
-# Usha M  
+Usha M  
 Aspiring Data Scientist | Open to Work  
-# [LinkedIn](https://www.linkedin.com/in/usha-mano-6589aa4a)
+[LinkedIn](https://www.linkedin.com/in/usha-mano-6589aa4a)
   
